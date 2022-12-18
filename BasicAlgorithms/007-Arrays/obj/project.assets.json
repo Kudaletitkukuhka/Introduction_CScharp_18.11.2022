@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\admin\\Desktop\\KKS_C#\\Introduction_CScharp_18.11.2022\\BasicAlgorithms\\007-Arrays\\007-Arrays.csproj",
+      "projectUniqueName": "C:\\Users\\admin\\Desktop\\KKS C#\\Introduction_CScharp_18.11.2022\\BasicAlgorithms\\007-Arrays\\007-Arrays.csproj",
       "projectName": "007-Arrays",
-      "projectPath": "C:\\Users\\admin\\Desktop\\KKS_C#\\Introduction_CScharp_18.11.2022\\BasicAlgorithms\\007-Arrays\\007-Arrays.csproj",
+      "projectPath": "C:\\Users\\admin\\Desktop\\KKS C#\\Introduction_CScharp_18.11.2022\\BasicAlgorithms\\007-Arrays\\007-Arrays.csproj",
       "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\admin\\Desktop\\KKS_C#\\Introduction_CScharp_18.11.2022\\BasicAlgorithms\\007-Arrays\\obj\\",
+      "outputPath": "C:\\Users\\admin\\Desktop\\KKS C#\\Introduction_CScharp_18.11.2022\\BasicAlgorithms\\007-Arrays\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
