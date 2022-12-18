@@ -1,4 +1,4 @@
-﻿//Алгоритм Евклида
+﻿/*Алгоритм Евклида
 int GCD(int a,int b)
 {
      while(a!=b)
@@ -7,6 +7,7 @@ int GCD(int a,int b)
           else b=b-a;
           return a;
 }
+*/ 
 
 //Алгоритм Евклида#2
 int QuickGCD(int a,int b)
