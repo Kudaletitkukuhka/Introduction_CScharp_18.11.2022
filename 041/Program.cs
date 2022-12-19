@@ -34,5 +34,4 @@ void Print(int[] a)
 int[] a=RandomArray(3,-5,5);
 Print(a);
 System.Console.WriteLine();
-System.Console.WriteLine($"Наибольшее число массива: {Max(a)}");
-System.Console.WriteLine($"Наименьшее число массива: {Min(a)}");
+System.Console.WriteLine($"Наибольшее число массива: {Max(a)-Min(a)}");
